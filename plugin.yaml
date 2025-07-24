@@ -1,0 +1,6 @@
+plugin:
+    name: 'yfktn.inputmask::lang.plugin.name'
+    description: 'Input Masks'
+    author: Yfktn
+    icon: oc-icon-asterisk
+    homepage: ''
