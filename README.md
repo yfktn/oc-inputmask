@@ -16,8 +16,8 @@ $ php artisan october:migrate
 In your field declarations, use `ocnumberinputmask` as the value of type.
 
 ```
-nilai_perolehan:
-    label: 'Nilai perolehan'
+budget:
+    label: 'Budget'
     span: auto
     type: ocnumberinputmask
     decimalCount: 2
